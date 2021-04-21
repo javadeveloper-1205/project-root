@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed1af8c-2f4e-4c7f-bf9f-4f6324df5bd5" name="Default Changelist" comment="Add .travis.yml">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProjectRootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="project-root" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.projectroot.ProjectRootApplication" />
@@ -102,7 +115,7 @@
       <workItem from="1618931322048" duration="6400000" />
       <workItem from="1618947679248" duration="852000" />
       <workItem from="1619014469840" duration="6809000" />
-      <workItem from="1619030387766" duration="885000" />
+      <workItem from="1619030387766" duration="1569000" />
     </task>
     <task id="LOCAL-00001" summary="Step2 - completed">
       <created>1618935259337</created>
@@ -153,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619035659799</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add .travis.yml">
+      <created>1619035850996</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619035850996</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add .travis.yml">
+      <created>1619036050367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619036050367</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
