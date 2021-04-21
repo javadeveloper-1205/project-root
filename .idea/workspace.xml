@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1af8c-2f4e-4c7f-bf9f-4f6324df5bd5" name="Default Changelist" comment="Step2 - completed" />
+    <list default="true" id="8ed1af8c-2f4e-4c7f-bf9f-4f6324df5bd5" name="Default Changelist" comment="Add .travis.yml">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +102,7 @@
       <workItem from="1618931322048" duration="6400000" />
       <workItem from="1618947679248" duration="852000" />
       <workItem from="1619014469840" duration="6809000" />
-      <workItem from="1619030387766" duration="534000" />
+      <workItem from="1619030387766" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="Step2 - completed">
       <created>1618935259337</created>
@@ -137,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619030695107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Step2 - completed">
+      <created>1619035497132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619035497132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add .travis.yml">
+      <created>1619035659799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619035659799</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +194,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step2 - completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step2 - completed" />
+    <MESSAGE value="Add .travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .travis.yml" />
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
     <option name="sizePresets">
