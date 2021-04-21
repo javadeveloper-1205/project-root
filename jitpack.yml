@@ -1,0 +1,18 @@
+jdk:
+  - openjdk11
+install: true
+script:
+    - ./mvnw clean install
+    - bash <(curl -s https://codecov.io/bash)
+cache:
+  directories:
+    - $home/.m2
+deploy:
+  -
+    on:
+      branch: release
+    provider: bintray
+    skip_cleanup: true
+    file: target/bin/bintray.json
+    user: nfrankel
+    key: $bintray_api_key
